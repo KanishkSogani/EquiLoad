@@ -52,7 +52,6 @@ npm run dev
 ```
 
 ### _Backend Setup_
-
 ```sh
 cd server
 npm install
@@ -60,7 +59,6 @@ npm run start:backend
 ```
 
 ### _Load Balancer & AI Integration_
-
 ```sh
 # Open a new terminal and run:
 node loadBalancer.js
@@ -69,8 +67,8 @@ node loadBalancer.js
 node aiIntegration.js
 ```
 
-### _ML Model Setup_
 
+### _ML Model Setup_
 ```sh
 cd ml_model
 pip install fastapi

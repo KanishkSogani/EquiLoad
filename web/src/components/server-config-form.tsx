@@ -153,6 +153,7 @@ export function ServerConfigForm() {
                     </SelectItem>
                     <SelectItem value="ip-hashing">IP Hash</SelectItem>
                     <SelectItem value="ml-model">ML Based</SelectItem>
+                    <SelectItem value="ml-model">ML based</SelectItem>
                   </SelectContent>
                 </Select>
                 <Button type="submit" className="w-full mt-4">
